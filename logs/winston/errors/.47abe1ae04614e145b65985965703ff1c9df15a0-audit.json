@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\.47abe1ae04614e145b65985965703ff1c9df15a0-audit.json",
+    "files": [
+        {
+            "date": 1724775588525,
+            "name": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\phu-2024-27-08-22-error.log",
+            "hash": "26e24ab66024b1e360935618f5c2ede2a135de31862de50c30f017d7e5799779"
+        },
+        {
+            "date": 1724778004092,
+            "name": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\phu-2024-27-08-23-error.log",
+            "hash": "e114c32072355eaf6aa8f3745de8aa256fe7584eccfc27e574287ffc8f66b391"
+        }
+    ],
+    "hashType": "sha256"
+}

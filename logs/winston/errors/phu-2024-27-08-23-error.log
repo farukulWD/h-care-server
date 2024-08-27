@@ -1,0 +1,225 @@
+Tue Aug 27 2024 23:0:4 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Can't reach database server at `localhost`:`5432`
+
+Please make sure your database server is running at `localhost`:`5432`.
+Tue Aug 27 2024 23:2:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:3:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:4:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:5:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:6:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:7:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:8:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:9:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:10:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:11:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:12:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:13:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:14:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:15:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:16:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:17:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:18:1 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:19:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:20:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:21:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:22:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:23:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:24:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:25:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:26:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:27:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:28:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:29:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:30:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Authentication failed against database server at `localhost`, the provided database credentials for `USERNAME` are not valid.
+
+Please make sure to provide valid database credentials for the database server at `localhost`.
+Tue Aug 27 2024 23:31:1 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+User `USERNAME` was denied access on the database `DATABASE.public`
+Tue Aug 27 2024 23:32:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+User `USERNAME` was denied access on the database `DATABASE.public`
+Tue Aug 27 2024 23:33:1 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+User `USERNAME` was denied access on the database `DATABASE.public`

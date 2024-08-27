@@ -223,3 +223,8 @@ Invalid `prisma.appointment.findMany()` invocation:
 
 
 User `USERNAME` was denied access on the database `DATABASE.public`
+Tue Aug 27 2024 23:34:0 } [PH] error: 
+Invalid `prisma.appointment.findMany()` invocation:
+
+
+Database `DATABASE` does not exist on the database server at `localhost:5432`.

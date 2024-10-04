@@ -6,19 +6,14 @@
     "auditLog": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\.47abe1ae04614e145b65985965703ff1c9df15a0-audit.json",
     "files": [
         {
-            "date": 1724775588525,
-            "name": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\phu-2024-27-08-22-error.log",
-            "hash": "26e24ab66024b1e360935618f5c2ede2a135de31862de50c30f017d7e5799779"
+            "date": 1727172049211,
+            "name": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\phu-2024-24-09-16-error.log",
+            "hash": "41a6eaedc276c34ebec4d8b5898f549322b876f398c6c95c88430c07d33ce786"
         },
         {
-            "date": 1724778004092,
-            "name": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\phu-2024-27-08-23-error.log",
-            "hash": "e114c32072355eaf6aa8f3745de8aa256fe7584eccfc27e574287ffc8f66b391"
-        },
-        {
-            "date": 1724782893337,
-            "name": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\phu-2024-28-08-00-error.log",
-            "hash": "312820937897cd292e37d9e0c29e7269a5f817a44cb0b6d90d4bd2082acdd061"
+            "date": 1728047496900,
+            "name": "D:\\next js\\h-care\\h-care-server\\logs\\winston\\errors\\phu-2024-04-10-19-error.log",
+            "hash": "7205651de9f2b2d0e2cb90266a977d78f8e3b17ae29060a35c5165a598f3df43"
         }
     ],
     "hashType": "sha256"
